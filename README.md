@@ -1,6 +1,6 @@
 #### Tutorial: Managing Dates with Moment
 
-In this tutorial, we'll learn how to manage dates with the `moment` library from NPM. We'll look at examples of
+In this tutorial, we'll learn how to manage dates with the `moment` library from NPM. We'll look at examples of creating dates, converting dates, and storing dates in the database for retrieval later.
 
 [Read this tutorial on The Meteor Chef](https://themeteorchef.com/tutorials/managing-dates-with-moment)  
 
