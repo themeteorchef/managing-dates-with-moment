@@ -1,6 +1,6 @@
 #### Tutorial: Managing Dates with Moment
 
-In this tutorial, we'll learn how to manage dates with the mome
+In this tutorial, we'll learn how to manage dates with the `moment` library from NPM. We'll look at examples of
 
 [Read this tutorial on The Meteor Chef](https://themeteorchef.com/tutorials/managing-dates-with-moment)  
 
