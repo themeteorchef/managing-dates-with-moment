@@ -1,6 +1,6 @@
 #### Tutorial: Managing Dates with Moment
 
-In this tutorial, we'll learn how to manage
+In this tutorial, we'll learn how to manage dates with the mome
 
 [Read this tutorial on The Meteor Chef](https://themeteorchef.com/tutorials/managing-dates-with-moment)  
 
