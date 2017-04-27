@@ -26,6 +26,7 @@ export const epochToISOString = (epoch) => {
     const milliseconds = date.length === 10 ? date * 1000 : date;
     return (new Date(parseInt(milliseconds, 10))).toISOString();
   }
+  return '';
 };
 
 export const daysInFuture = days => moment.utc().add(days, 'days').format();
