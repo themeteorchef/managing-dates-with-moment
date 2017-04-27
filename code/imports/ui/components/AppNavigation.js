@@ -13,7 +13,7 @@ const AppNavigation = ({ hasUser }) => (
   <Navbar>
     <Navbar.Header>
       <Navbar.Brand>
-        <Link to="/">Application Name</Link>
+        <Link to="/">DateBot</Link>
       </Navbar.Brand>
       <Navbar.Toggle />
     </Navbar.Header>
